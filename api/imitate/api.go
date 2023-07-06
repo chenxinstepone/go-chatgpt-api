@@ -8,7 +8,7 @@ import (
 	http "github.com/bogdanfinn/fhttp"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/linweiyuan/funcaptcha"
+	"github.com/acheong08/funcaptcha"
 	"github.com/linweiyuan/go-chatgpt-api/api"
 	"github.com/linweiyuan/go-chatgpt-api/api/chatgpt"
 	"io"
